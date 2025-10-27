@@ -5,7 +5,7 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text(encoding="utf-8")
 
 setup(
-    name="my-sort",
+   name="my_sort_andrii",
     version="0.1.0",
     description="Simple CLI sort utility",
     long_description=README,
