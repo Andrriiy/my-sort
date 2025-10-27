@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: my-sort
+Version: 0.1.0
+Summary: Simple CLI sort utility
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: click
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# my-sort
+
+Простий аналог команди `sort` на Python.
+
+## Використання
+
+
+Параметри:
+- `-n, --numeric` — числове сортування (коли можливо)
+- `-r, --reverse` — зворотній порядок

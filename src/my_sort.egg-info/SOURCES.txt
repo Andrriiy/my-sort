@@ -1,0 +1,10 @@
+README.md
+setup.py
+src/my_sort/__init__.py
+src/my_sort/cli.py
+src/my_sort.egg-info/PKG-INFO
+src/my_sort.egg-info/SOURCES.txt
+src/my_sort.egg-info/dependency_links.txt
+src/my_sort.egg-info/entry_points.txt
+src/my_sort.egg-info/requires.txt
+src/my_sort.egg-info/top_level.txt
